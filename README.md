@@ -1,1 +1,1 @@
-### Toda a contrução de um site em Wordpress com Backend e frontend 👋
+### Toda a construção de um site em Wordpress com Backend e frontend 👋
