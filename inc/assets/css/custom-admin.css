@@ -1,0 +1,58 @@
+/**
+ * Custom login styles.
+ */
+.login h1 a {
+	background: url('../images/logo-login.png') center top no-repeat !important;
+	background: url('../images/logo-login.svg') center top no-repeat !important;
+	background-size: 180px auto !important;
+	height: 220px !important;
+	width: 180px !important;
+}
+
+/**
+ * Custom admin styles.
+ */
+#footer-upgrade {
+	visibility: hidden !important;
+}
+
+#footer-left {
+	float: right !important;
+}
+
+#contextual-help-link-wrap,
+#wp-version-message,
+#normal-sortables #dashboard_right_now .inside .versions p {
+	display: none !important;
+}
+
+.mce-window .mce-container-body.mce-abs-layout {
+	overflow: hidden !important;
+	overflow-y: auto !important;
+}
+.wp-core-ui .button-primary{
+	background: #8CB81A !important;
+	border-color: #8CB81A !important;
+}
+/*body{
+	background: url('../images/Fundo_Maior.webp') center top no-repeat !important;
+	background-size: 106% auto !important;
+}
+#loginform{
+	border-radius: 7px;
+	background: #eeeeee !important;
+}
+#backtoblog a, #nav a, .privacy-policy-link{
+	color: #fff !important;	
+}
+a:focus {
+    box-shadow: 0 0 0 1px #4f94d400, 0 0 2px 1px rgb(79 148 212 / 0%) !important;
+}
+.wrap h1.wp-heading-inline {
+    color: #fff !important;
+}
+.ac_match, .subsubsub a.current {
+    color: #fff !important;
+}
+.subsubsub a .count, .subsubsub a.current .count {color: #fff !important;}
+.subsubsub a {color: #fff !important;}*/
